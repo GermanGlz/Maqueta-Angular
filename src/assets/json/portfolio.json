@@ -1,0 +1,106 @@
+{
+    "nombre": "German",
+    "apellido": "Gonzalez",
+    "profesion1": "Tecnico en Geologia y Minas",
+    "profesion2": "Estudiante Full Stack Developer",
+    "acerca": "Busco integrarme a una empresa exitosa para colaborar de manera eficiente y positiva de acuerdo a los retos que se establezcan. Logrando la oportunidad de desarrollarme de manera laboral y personal. Ser una persona objetiva, integra, competitiva y exitosa a lo largo de mi vida laboral con la ambición de adquirir nuevos conocimientos que me ayuden a superarme constantemente, sustentados en valores éticos de esfuerzo de trabajo.",
+    "foto": "../assets/imagenes/imgperfil.jpg",
+    "banner": "../assets/imagenes/banner.jpg",
+
+
+    "experiencia": [
+        {
+            "img": "assets/imagenes/SlbLogoFinal.jpg",
+            "puesto": "Operador Logger",
+            "empresa": "Schlumberger, Venezuela",
+            "desde": "20/06/2011",
+            "hasta": "15/04/2016",
+            "descripcion": "Mis tareas consistían en el monitoreo de parámetros en tiempo real (numérico y gráfico) durante la perforación de pozos petroleros. Almacenamiento e interpretación de los datos tanto geológicos como operacionales, Correlación de secciones estratigráficas, Asistir al Geólogo de Pozo, Descripción litológica de ripios de perforación y núcleos: Porcentaje, Identificación de la roca, porosidad visible e indicadores de hidrocarburos tales como petróleo en el lodo, olor, manchado, fluorescencia natural, corte natural, fluorescencia del corte y anillo residual, etc."
+        },
+        {
+            "img": "assets/imagenes/logotrabajo2.jpg",
+            "puesto": "Pasante",
+            "empresa": "Ministerio Del Poder Popular de Desarrollo Minera Ecologico - Venezuela",
+            "desde": "04/05/2009",
+            "hasta": "05/10/2009",
+            "descripcion": "Desarrollo del proyecto de grado:Plan De Reducción Del Impacto Ambiental En Las Parcelas Ia-01 E Ia-11, Pertenecientes Al Proyecto De Pequeña Minería Bizkaitarra Km.88-Las Claritas Municipio Sifontes, Parroquia San Isidro, Estado Bolívar"
+        }
+    ],
+    
+    "educacion": [
+        {
+            "img": "assets/imagenes/LogoIuteb.webp",
+            "titulo": "Técnico Superior Universitario en Geología y Minas",
+            "institucion": "Instituto Universitario de Tecnologia del Estado Bolivar - Venezuela",
+            "desde": "13/11/2006",
+            "hasta": "20/11/2009",
+            "descripcion": "El Técnico Superior en Geología y Minas utiliza técnicas de foto interpretación y métodos geofisicos y geoquimicos para la explotaciones geológicas y mineras. Trabaja en los laboratorios de investigación minero-lógicas, en el inventario de recursos minerales en la industria del carbón, realizando labores de perforación, evaluando reservas y desarrollo de la minería."
+        },
+        {
+            "img": "assets/imagenes/logo-argentina-programa.jpg",
+            "titulo": "Argentina Programa: #SéProgramar",
+            "institucion": "CESSI, Argentina Ministerio del Desarrollo Productivo",
+            "desde": "02/02/2022",
+            "hasta": "31/03/2022",
+            "descripcion": "#SéProgramar es un curso introductorio en el que se adquieren los fundamentos básicos de la programación para dar los primeros pasos en el mundo tecnológico. Una vez que aprobado, se puede elegir un curso de la segunda etapa de Argentina Programa 4.0 para continuar la formación"
+        },
+        {
+            "img": "assets/imagenes/logo-argentina-programa.jpg",
+            "titulo": "Argentina Programa: #YoProgramo",
+            "institucion": "CESSI, Argentina Ministerio del Desarrollo Productivo",
+            "desde": "28/06/2022",
+            "hasta": "15/01/2023",
+            "descripcion": "#YoProgramo es un curso de la segunda etapa de Argentina Programa 4.0 en el que se adquieren las habilidades y herramientas para convertirse en un programador web full-stack junior."
+        }
+    ],
+    
+    "skills": [
+        {
+            "habilidad": "Trabajo en Equipo",
+            "porcentaje": "90",
+            "color": "bg-success"
+        },
+        {
+            "habilidad": "Manejo del Tiempo",
+            "porcentaje": "90",
+            "color": "bg-success"
+        },
+        {
+            "habilidad": "Ingles",
+            "porcentaje": "60",
+            "color": "bg-success"
+        },
+        {
+            "habilidad": "HTML",
+            "porcentaje": "70",
+            "color": "bg-success"
+        },
+        {
+            "habilidad": "CSS",
+            "porcentaje": "60",
+            "color": "bg-success"
+        },
+        {
+            "habilidad": "JavaScript",
+            "porcentaje": "60",
+            "color": "bg-success"
+        }
+    ],
+
+    "proyectos": [
+        {
+            "img": "assets/imagenes/project.png",
+            "nombre": "Portfolio Web Personal",
+            "fecha": "15/01/2023",
+            "descripcion": "Aplicación web full stack  que contiene datos personales, estudios cursados, experiencia laboral, habilidades y proyectos realizados, la App permite al usuario acceder a traves de un login y poder realizar la edición de la información, la cual, está enlazada a una base de datos. Realizado como trabajo final integrador TP de la segunda etapa del programa Argentina Programa 4.0",
+            "url": " "
+        },
+        {
+            "img": "assets/imagenes/proyecto2.png",
+            "nombre": "Replica Página Web de Compra",
+            "fecha": "22/10/2022",
+            "descripcion": "Replica de pagina web para la compra de boletos, que permite seleccionar una categoría de entre varias con diferentes descuentos al precio general y retorna el precio total a pagar dependiendo de la cantidad y categoria antes mencionada. Realizado como trabajo práctico integrador del programa Codo a Codo 4.0",
+            "url":"https://enchanting-meringue-1ceb0e.netlify.app/"
+        }
+    ]
+}
